@@ -1,0 +1,8 @@
+body{
+    background-color:rgb(252, 224, 255);
+}
+h1,h2 {
+    text-align: center;
+    padding: 15px;
+    font-family: Arial;
+}
